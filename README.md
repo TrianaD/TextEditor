@@ -1,13 +1,13 @@
 # TextEditor
 
 
-# USER STORY
+## User Story
 
 * AS A developer
 * I WANT to create notes or code snippets with or without an internet connection
 * SO THAT I can reliably retrieve them for later use
 
-# ACCEPTANCE CRITERIA
+## Acceptance Criteria
 
 * GIVEN a text editor web application
 * WHEN I open my application in my editor
