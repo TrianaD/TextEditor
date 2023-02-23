@@ -1,5 +1,16 @@
 # TextEditor
 
+## Project Description 
+
+A web application allowing users to install and edit text using the PWA requirement criteria online or through the application desktop version. 
+
+## Table of Contents
+
+## Table of Contents
+* [User Story](#User-Story)
+* [Acceptance Criteria](#Acceptance-Criteria) 
+* [Usage](#Usage)
+* [Contact](#Contact) 
 
 ## User Story
 
@@ -34,3 +45,30 @@
 * THEN I should have my static assets pre cached upon loading along with subsequent pages and static assets
 * WHEN I deploy to Heroku
 * THEN I should have proper build scripts for a webpack application
+
+## Usage
+
+The following are steps to run the application. 
+
+## Installation 
+
+Run npm i in terminal to install all dependencies. 
+Run npm run build to build the packages and dist folder.
+Run npm start to open application .
+
+
+## Languages / Technology 
+
+* Node.js
+* Express
+* Webpack 
+* Workbox
+* Javascript
+
+
+
+## Contact and Video 
+
+[GitHub Link](https://github.com/TrianaD/TextEditor)
+
+[Video Link (in Work)](https://github.com/TrianaD/TextEditor)
