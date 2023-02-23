@@ -1,4 +1,9 @@
-.DS_store
+node_modules/
+dist/
+/node_modules
+npm-debug.log
+.DS_Store
+/*.env
 
 # Logs
 logs
